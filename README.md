@@ -1,6 +1,6 @@
 # Cavite Flood and Weather monitoring dashboard 
 ## Problem Statement
-# I want to answer: where are the most prone places where flood is iminent even with a small rain
+I want to answer: where are the most prone places where flood is iminent even with a small rain
 ## Audience
 citizens around noveleta and rosario
 
