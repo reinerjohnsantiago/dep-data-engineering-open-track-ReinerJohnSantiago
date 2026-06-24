@@ -39,11 +39,11 @@ The dashboard will monitor:
 • Distance to evacuation centres, when data is available
 
 ## Likely Data Source
-Open-Meteo Weather
+Open-Meteo Weather https://open-meteo.com/
 
-Open-Meteo Flood
+Open-Meteo Flood https://open-meteo.com/en/docs/flood-api
 
-OpenStreetMap
+OpenStreetMap https://www.openstreetmap.org/#map=6/13.02/121.77
 
 ## Possible Final Dashboard
 
