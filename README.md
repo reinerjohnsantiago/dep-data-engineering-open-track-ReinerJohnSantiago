@@ -1,7 +1,9 @@
 # Flood-Risk and Weather Monitoring for Noveleta and Rosario
 ## Problem Statement
 Residents of Noveleta and Rosario need an accessible way to identify areas that are highly susceptible to flooding, including locations that may experience flooding even during light or moderate rainfall.
+
 The dashboard aims to answer:
+
 Which locations are most flood-prone, and how likely are they to experience flooding based on current and forecasted rainfall?
 
 ## Audience
@@ -15,6 +17,7 @@ Which locations are most flood-prone, and how likely are they to experience floo
 
 ## KPI or Key Metric
 The dashboard will monitor:
+
 • Current rainfall: millimetres per hour
 
 • Forecasted rainfall: expected rainfall for the next 24 hours
