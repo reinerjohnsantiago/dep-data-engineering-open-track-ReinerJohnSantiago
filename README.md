@@ -6,25 +6,38 @@ Which locations are most flood-prone, and how likely are they to experience floo
 
 ## Audience
 • Residents of Noveleta and Rosario, Cavite
+
 • Local government units
+
 • Disaster risk reduction and emergency-response teams
+
 • Commuters and motorists
 
 ## KPI or Key Metric
 The dashboard will monitor:
 • Current rainfall: millimetres per hour
+
 • Forecasted rainfall: expected rainfall for the next 24 hours
+
 • Rain probability: percentage chance of rain
+
 • Flood susceptibility level: Low, Moderate, High or Critical
+
 • Number of flood-prone locations
+
 • Estimated population or communities exposed
+
 • Active weather or flood alerts
+
 • Data last updated
+
 • Distance to evacuation centres, when data is available
 
 ## Likely Data Source
 Open-Meteo Weather
+
 Open-Meteo Flood
+
 OpenStreetMap
 
 ## Possible Final Dashboard
