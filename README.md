@@ -1,14 +1,31 @@
-# Cavite Flood and Weather monitoring dashboard 
+# Flood-Risk and Weather Monitoring for Noveleta and Rosario
 ## Problem Statement
-I want to answer: where are the most prone places where flood is iminent even with a small rain
+Residents of Noveleta and Rosario need an accessible way to identify areas that are highly susceptible to flooding, including locations that may experience flooding even during light or moderate rainfall.
+The dashboard aims to answer:
+Which locations are most flood-prone, and how likely are they to experience flooding based on current and forecasted rainfall?
+
 ## Audience
-citizens around noveleta and rosario
+• Residents of Noveleta and Rosario, Cavite
+• Local government units
+• Disaster risk reduction and emergency-response teams
+• Commuters and motorists
 
 ## KPI or Key Metric
-i want to track where is the most flood prone areas and be ready when a heavy rainfall comes
+The dashboard will monitor:
+• Current rainfall: millimetres per hour
+• Forecasted rainfall: expected rainfall for the next 24 hours
+• Rain probability: percentage chance of rain
+• Flood susceptibility level: Low, Moderate, High or Critical
+• Number of flood-prone locations
+• Estimated population or communities exposed
+• Active weather or flood alerts
+• Data last updated
+• Distance to evacuation centres, when data is available
 
 ## Likely Data Source
-i will explore lipad dream edu (https://lipad.dream.upd.edu.ph/)
+Open-Meteo Weather
+Open-Meteo Flood
+OpenStreetMap
 
 ## Possible Final Dashboard
 the dashboard should help people prepare incase of storm, emergency or even a small frequent rain(hanging habagat)
