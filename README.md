@@ -6,6 +6,8 @@ The dashboard aims to answer:
 
 Which locations are most flood-prone, and how likely are they to experience flooding based on current and forecasted rainfall?
 
+Which specific barangays or zones should be prioritized for flood-control infrastructure projects (e.g., drainage, dikes, pumping stations) to maximize public safety and construction efficiency?
+
 ## Audience
 • Residents of Noveleta and Rosario, Cavite
 
