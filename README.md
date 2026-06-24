@@ -59,6 +59,7 @@ OpenStreetMap
 
 • A clear status indicator: Normal, Alert, Warning or Critical
 
-Purpose of dashboard
+Purpose of dashboard:
+
 The dashboard will help residents and authorities prepare for storms, monsoon rains and recurring flooding. It will support earlier decision-making, safer travel planning and faster emergency preparation.
 
