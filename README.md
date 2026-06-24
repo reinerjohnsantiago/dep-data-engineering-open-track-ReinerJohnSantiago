@@ -44,4 +44,21 @@ Open-Meteo Flood
 OpenStreetMap
 
 ## Possible Final Dashboard
-the dashboard should help people prepare incase of storm, emergency or even a small frequent rain(hanging habagat)
+
+• A map of flood-prone areas
+
+• Current and forecasted rainfall
+
+• Risk level for each monitored location
+
+• Active weather advisories
+
+• Locations that may become flooded
+
+• Nearby evacuation centres and safer routes
+
+• A clear status indicator: Normal, Alert, Warning or Critical
+
+Purpose of dashboard
+The dashboard will help residents and authorities prepare for storms, monsoon rains and recurring flooding. It will support earlier decision-making, safer travel planning and faster emergency preparation.
+
